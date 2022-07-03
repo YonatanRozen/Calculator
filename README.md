@@ -1,2 +1,2 @@
 # Calculator
-A basic calculator app - can perform multiple operations. 
+A basic calculator app - can perform only one operation. 
